@@ -1,2 +1,2 @@
-# CSS-HTML-JS
+# Practicandoando
 Es una página creada de práctica
